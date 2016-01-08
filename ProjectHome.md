@@ -1,0 +1,1 @@
+A group project to change the well known game known as Modern Warfare 2 into a better experience.
